@@ -25,10 +25,6 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
-
-### Usage
-Run the main application script from the command line:
-
 bash
 Copy code
 python src/detection_script.py
